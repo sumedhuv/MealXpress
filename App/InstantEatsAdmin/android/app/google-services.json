@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341755807382",
+    "project_id": "instanteats-253dc",
+    "storage_bucket": "instanteats-253dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341755807382:android:a014e964fd38d9686524b7",
+        "android_client_info": {
+          "package_name": "com.mealxpressvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341755807382-bc7q8ts9bnrhl859t55nus819vceu18i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mealxpressvendor",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "341755807382-10dthadumh5nunupes8rv258c1ivr7m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAEgBF9K8GJdC4lHD2GV7EvVayV6VIys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341755807382-10dthadumh5nunupes8rv258c1ivr7m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
